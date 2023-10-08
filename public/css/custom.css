@@ -1,0 +1,113 @@
+.container {
+    width: 100% !important;
+}
+
+.li_a {
+    color: black !important;
+}
+
+.pd-top-40 {
+    padding-top: 40px;
+}
+
+.pd-top-60 {
+    padding-top: 60px;
+}
+
+.pd-top-70 {
+    padding-top: 70px;
+}
+
+.pd-top-100 {
+    padding-top: 100px;
+}
+
+.theme_bg {
+    background-color: #04AA6D;
+    color: white;
+}
+
+body {
+    font-family: Railway;
+}
+
+.se_reg {
+    border: 1px solid black;
+    width: 70px;
+    padding: 4px
+}
+
+.madhymic_shiksa {
+    border: 1px solid black;
+    width: 107px;
+    margin-top: 6px;
+}
+
+.niyamit {
+    border: 1px solid black;
+    width: 107px;
+    margin-top: 6px;
+}
+
+.number_design {
+    float: right;
+    margin-top: -38px;
+}
+
+.shala_darapd {
+    margin-left: 30px;
+}
+
+.input_design {
+    width: 34%;
+    ;
+}
+
+input[type='checkbox'] {
+    width: 31px;
+    height: 19px;
+}
+
+.news_sectoin {
+    background: hsla(0, 75%, 52%, 1);
+    background: radial-gradient(circle, hsla(0, 75%, 52%, 1) 0%, hsla(220, 79%, 20%, 1) 100%);
+    background: -moz-radial-gradient(circle, hsla(0, 75%, 52%, 1) 0%, hsla(220, 79%, 20%, 1) 100%);
+    background: -webkit-radial-gradient(circle, hsla(163deg, 75%, 52%, 1) 0%, hsla(220, 79%, 20%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E02A2A", endColorstr="#0B275D", GradientType=1);
+    margin-top: 10px;
+    padding: 10px 5px 4px 5px;
+    border-left: 10px solid #ffec09;
+    border-right: 10px solid #ffec09;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+@media (max-width:640px) {
+    .img_logo {
+        width: 29%;
+        margin-top: -50px;
+        margin-left: 104px;
+    }
+    .madhymic_shiksa {
+        margin-left: 104px;
+    }
+    .borad {
+        font-size: 25px;
+    }
+    .board_of_education {
+        font-size: 20px;
+        ;
+    }
+    .nimayti_education {
+        margin-left: 195px;
+        margin-top: -28px;
+    }
+    .application {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    .madhymic_edu {
+        padding-top: 45px;
+        margin-right: 50px;
+    }
+}
