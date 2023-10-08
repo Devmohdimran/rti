@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Http\Controllers\admin;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+class AttendanceController extends Controller
+{
+    public function Attendance()
+    {
+        return view('admin.pages.Attendance');
+    }
+}
